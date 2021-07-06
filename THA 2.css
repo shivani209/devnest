@@ -1,0 +1,38 @@
+.main{
+    background-color: white;
+    width: 1000px;
+    height: 1000px;;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 80px;
+  }
+  
+  .heading{
+      margin: 50px 520px 100px ;
+  }
+  .column1{
+      margin-right: 200px;
+  }
+  .column1 p{
+    margin-top: 1px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+  }
+  .gap{
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+  .gap1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .cont p{
+    margin-top: 1px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+  }
+  .gap2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  

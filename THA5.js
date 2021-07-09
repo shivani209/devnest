@@ -1,5 +1,5 @@
 //1. 
-    let obj = { name:"satya prakash",rollno:5,address:"India" }
+    let obj = { name:"shivani",rollno:5,address:"India" }
     console.log("Q1.\n",Object.keys(obj))
 
 // 2. 

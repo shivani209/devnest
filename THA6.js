@@ -1,7 +1,7 @@
 
 
 let obj1 = {
-    name: "Satya",
+    name: "shivani",
     age:22,
     output: function (...y){
         let sum =0
@@ -11,7 +11,7 @@ let obj1 = {
 }
 
 let obj2 = {
-    name: "Prakash",
+    name: "balaji",
     age: 30
 }
 
